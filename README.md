@@ -10,4 +10,4 @@ SQLWhitelist PHP DEMO
 * Enjoy! Your site is ready!
 
 # Compatiblity
-* The site it's compatible with [FlexibleLogin](https://forums.spongepowered.org/t/flexiblelogin-v0-17-for-sponge-7-auth-plugin-2fa/) or [GitHub](https://github.com/games647/FlexibleLogin)
+* The site it's compatible with [FlexibleLogin-SpongeForge](https://forums.spongepowered.org/t/flexiblelogin-v0-17-for-sponge-7-auth-plugin-2fa/) or [FlexibleLogin-GitHub](https://github.com/games647/FlexibleLogin)
