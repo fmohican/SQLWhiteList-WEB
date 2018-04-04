@@ -8,3 +8,6 @@ SQLWhitelist PHP DEMO
 * open browser and point to http://somedomain.ex/admin_setup.php
 * Fill with your data
 * Enjoy! Your site is ready!
+
+# Compatiblity
+* The site it's compatible with [FlexibleLogin](https://forums.spongepowered.org/t/flexiblelogin-v0-17-for-sponge-7-auth-plugin-2fa/)
